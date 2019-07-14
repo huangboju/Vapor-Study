@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/huangboju/Desktop/Repositories/Vapor-Study/WebApp/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}
