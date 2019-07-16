@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>我的第一个表单</title>
+  </head>
+  <body>
+    <form class="" action="https://www.baidu.com/" method="get">
+      <input type="text" name="name" value="">用户名：
+      <input type="text" name="password" value="">密码：
+      <br>
+      <input type="submit" name="" value="提交">
+    </form>
+  </body>
+</html>
